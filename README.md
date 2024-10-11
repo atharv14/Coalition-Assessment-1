@@ -6,4 +6,5 @@
 
 ### Website I developed:
 
-![Website I developed](https://github.com/atharv14/Coalition-Assessment-1/blob/main/website.png?raw=true)
+![Website screen](https://github.com/atharv14/Coalition-Assessment-1/blob/main/website.png?raw=true)
+![Website remaining screen](https://github.com/atharv14/Coalition-Assessment-1/blob/main/website1.png?raw=true)
